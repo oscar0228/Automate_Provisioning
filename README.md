@@ -2,14 +2,13 @@
 Ansible used to provision Homelab and Personal PCs
 
 ## To Do List
-[] Roles
- [] Server
+- [ ] Server Role
+- [ ] PC Role
+- [ ] Network Role
+- [ ] Base Config - common to all roles
 
- [] PC
+## Completed
 
- [] Network
 
- [] Base Config - common to all roles
 
-[] Tasks
 
